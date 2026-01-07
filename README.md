@@ -1,0 +1,2 @@
+# Nyikagotchi
+fun simulation
